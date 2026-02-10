@@ -106,6 +106,17 @@ background: radial-gradient(circle, rgba(212, 219, 255, 1) 0%, rgba(166, 218, 25
 	top: 400px;
 	border-radius:25px;	
 }
+#laptop_case2 {
+	position:absolute;
+	width: 150px;
+      height: 25px;
+      transform: skew(10deg);
+     background: rgb(39, 37, 37);
+	border: solid;
+	left: 460px;
+	top: 390px;
+	border-radius:25px;	
+}
 #table {
 	position:absolute;
 	width:600px;
