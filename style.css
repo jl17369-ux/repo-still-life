@@ -173,5 +173,15 @@ box-shadow: 2px 2px 4px rgba(0,0,0,0.5), inset 0 0 10px black;
 	top: 450px;
 	border-radius:25px;	
 }
+#c {
+	position:absolute;
+	width:25px;
+      height: 15px;
+     background: rgb(228, 227, 227);
+	border: solid;
+	left: 670px;
+	top: 455px;
+	border-radius:25px;	
+}
 
 	
